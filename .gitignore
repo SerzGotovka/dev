@@ -1,0 +1,15 @@
+venv/
+
+
+.vscode
+.idea
+
+__pycache__/
+
+migrations/
+
+media/
+
+
+
+commands.txt
